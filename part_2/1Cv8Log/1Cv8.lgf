@@ -9,10 +9,10 @@ e55d0993-1a32-4215-bbbd-12e2dd08a30a
 {4,"_$Session$_.Authentication",3},
 {13,1,1},
 {4,"_$Session$_.Start",4},
-{3,"1CV8",2},
-{4,"_$Session$_.Finish",5},
-{4,"_$InfoBase$_.ConfigUpdate",6},
-{4,"_$InfoBase$_.DBConfigUpdateStart",7},
-{4,"_$InfoBase$_.PredefinedDataUpdate",8},
+{4,"_$InfoBase$_.ConfigUpdate",5},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
 {5,60c80f4e-cb8b-4cbc-91fd-a25dad942bae,"",1},
-{4,"_$InfoBase$_.DBConfigUpdate",9}
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{3,"1CV8",2},
+{4,"_$Session$_.Finish",9}

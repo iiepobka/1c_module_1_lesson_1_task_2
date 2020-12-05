@@ -15,25 +15,6 @@
 		<CopyObjectsMode>false</CopyObjectsMode>
 	</Parameters>
 	<Objects>
-		<Configuration>
-			<Properties>
-				<Property name="Vendor">
-					<MergeRule>DoNotMerge</MergeRule>
-				</Property>
-				<Property name="BriefInformation">
-					<MergeRule>DoNotMerge</MergeRule>
-				</Property>
-				<Property name="DetailedInformation">
-					<MergeRule>DoNotMerge</MergeRule>
-				</Property>
-				<Property name="Copyright">
-					<MergeRule>DoNotMerge</MergeRule>
-				</Property>
-				<Property name="VendorInformationAddress">
-					<MergeRule>DoNotMerge</MergeRule>
-				</Property>
-			</Properties>
-		</Configuration>
 		<Object fullName="Catalog.Лекции.Form.ФормаЭлемента">
 			<Properties>
 				<Property name="Form">
